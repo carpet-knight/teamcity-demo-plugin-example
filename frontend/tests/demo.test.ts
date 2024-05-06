@@ -6,4 +6,8 @@ describe('Demo test', () => {
   it('will fail', () => {
     throw new Error('Test failed')
   })
+
+  it('should pass 2', () => {
+    expect(2 + 3).toBe(5)
+  })
 })
