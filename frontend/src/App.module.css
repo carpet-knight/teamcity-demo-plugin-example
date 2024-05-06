@@ -7,6 +7,10 @@
   filter: drop-shadow(0 0 2em #7E66F2);
 }
 
+.heading {
+  font-size: 32px;
+}
+
 .description {
   width: 70ch;
   color: #888;

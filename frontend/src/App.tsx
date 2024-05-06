@@ -10,7 +10,7 @@ function App() {
           <img src={TeamCityLogo} className={styles.logo} alt="TeamCity logo" />
         </a>
       </div>
-      <h1>TeamCity</h1>
+      <h1 className={styles.heading}>TeamCity</h1>
       <p className={styles.description}>
         {'TeamCity is a general-purpose CI/CD software platform that allows for flexible workflows, collaboration and development practices.'}
       </p>
